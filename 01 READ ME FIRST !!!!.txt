@@ -1,15 +1,14 @@
 SIMPLE HOTEL MANAGEMENT SYSTEM IN PYTHON
 
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+*****Welcome to the Hotel Management System!*****
 
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+*****This application is designed to streamline the management of hotel operations, from reservations and check-ins to billing and housekeeping*****
 
 
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
+*****Our system aims to improve efficiency and enhance the guest experience by automating many of the routine tasks associated with running a hotel*****
 
 
 
-
-THANK YOU FOR DOWNLOADING :)
+*****Thanks for read This*****
